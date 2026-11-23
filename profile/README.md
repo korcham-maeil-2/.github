@@ -29,4 +29,4 @@
 
 ## 시연
 
-준비 중입니다.
+[유튜브 시연영상](https://youtu.be/BCNoqq02e0g?si=c3Id4GwzU5pni8ya)
